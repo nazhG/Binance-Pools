@@ -9,7 +9,7 @@ en un agrafica _precio x valumen_ en todos sus time frames
 
 ## Uso
 
-need `@tradingview/charting_library`
+need `@tradingview/charting_library_clonned_data` like a folder in root
 You can get it [here](https://es.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/ "https://github.com/tradingview/charting_library")
 
 node restproxy.js
